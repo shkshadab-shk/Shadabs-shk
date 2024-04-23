@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+div{
+    background:  url(/images/1.png);
+    height: 500vh;
+    background-repeat: no-repeat;
+    background-size:;
+    
+
+}
+
+.bar{
+    color: black;
+}
+
+
+.title{
+    color: azure;
+    margin-top: 25px;
+    font-size: 5rem;;
+    text-align: center;
+}
+
+.para{
+    margin-top: 100px;
+    margin-left: 55px;
+    margin-right: 55px;
+    color: azure;
+    font-size: 15px;
+
+    text-align: center;
+}
+
+.nav-items a{
+    color: azure;
+}
